@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iOSStyleWidgets/IOSStyleWidgetsCheckBox.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsSlider.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsMessageBoxAlert.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsMessageBoxConfirm.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsMessageBoxPrompt.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsLoadingSpinner.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsChooseList.qml</file>
+        <file>iOSStyleWidgets/IOSStyleWidgetsBottomButtonList.qml</file>
+    </qresource>
+</RCC>

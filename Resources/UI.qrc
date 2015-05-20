@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Disabled.png</file>
+        <file>UI/Background.png</file>
+        <file>UI/AddButton.png</file>
+        <file>UI/Heart.png</file>
+        <file>UI/Star.png</file>
+        <file>UI/Opacity.png</file>
+    </qresource>
+</RCC>
